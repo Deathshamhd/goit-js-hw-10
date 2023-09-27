@@ -6,7 +6,7 @@ const breedSelect = document.querySelector('.breed-select');
 const pError = document.querySelector('.error');
 const loader = document.querySelector('.loader');
 const catInfo = document.querySelector('.cat-info');
-
+// testing
 pError.style.display = "none"
 
 breedSelect.addEventListener('change', () => {
